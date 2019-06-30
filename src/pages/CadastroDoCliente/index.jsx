@@ -21,7 +21,7 @@ const CadastroDoCliente = () => (
           <Input required type="date" />
         </Form.Field>
         <Button primary fluid>
-          Buscar
+          Finalizar Cadastro
         </Button>
       </Form>
     </Container>

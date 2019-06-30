@@ -64,7 +64,7 @@ class Avaliacao extends Component {
               placeholder="Opcional"
             />
             <Button primary fluid>
-              Finalizar
+              Finalizar Avalição
             </Button>
           </Form>
         </Container>
